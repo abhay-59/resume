@@ -1,0 +1,86 @@
+{
+    "basics": {
+        "name": "Abhay Singh",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2059@iiitkota.ac.in",
+        "phone": "+918009263348",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota,Rajasthan (India), persuing my B.tech in Electronics and communication engineering. I have my interests for competitive coding.",
+        "location": {
+            "address": "Kanpur",
+            "postalCode": "208020",
+            "city": "Kanpur",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "abhay-59",
+                "url": "https://www.github.com/abhay-59"
+            },
+            {
+                "network": "linkedin",
+                "username": "thegauravparmar",
+                "url": "https://www.linkedin.com/in/thegauravparmar/"
+            }
+        ]
+    },
+    "work": [
+       
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics and communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+
+    ],
+    "publications": [
+       
+    ],
+    "skills": [
+        {
+            "name": "Competitive Coder",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "MySQL",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton",
+                "Cricket"
+            ]
+        },
+        {
+            "name": "E-Sports",
+            "keywords": [
+                "Valorant",
+                "Counter Strike Global Offensive"
+            ]
+        }
+    ]
+}
